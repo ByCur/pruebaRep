@@ -17,6 +17,7 @@ import java.text.SimpleDateFormat;
  */
 public class Date {
   private final int day;
+  private int hola;
   private final int month;
   private final int year;
 
